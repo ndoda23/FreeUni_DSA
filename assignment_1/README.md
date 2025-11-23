@@ -1,5 +1,6 @@
 Security
 
+
 Emil recently created a genius internet page. As a computer science student, he made sure it was secure. Unfortunately, he recently forgot what his password was. To recover it, he needs to go through a simple verification, which he himself wrote...
 
 On the screen he can now see n numbers (written in decimal). The system now allows him to change the password. However, Emil cannot wait too long because after he doesn't complete the verification, the system will ask him to enter a much larger number, i.e., not allow him to change the password quickly. Enough - he needs to enter just one rest from dividing through m (Emil's favorite number) the minimal number of digits that Emil must add to change the password.
