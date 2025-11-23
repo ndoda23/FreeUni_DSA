@@ -50,11 +50,3 @@ Output for test without b0c:
 
 Explanation: Adding 41 digits, we get divisors for the number 45045. The rest from dividing 41 by 13 is 2.
 
-Grading
-
-SubtaskConstraintsPoints1aᵢ ≤ 30352No additional constraints65
-
-
-
-Author: Tomasz Kwiatkowski
-
