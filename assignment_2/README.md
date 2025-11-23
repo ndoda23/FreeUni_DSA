@@ -5,7 +5,6 @@ Memory limit: 32 MB
 A tree consists of a node and some (zero, one or two) subtrees connected to it. These subtrees are called children.
 
 
-
 A specification of the tree is a sequence of digits. If the number of children in the tree is:
 
 
