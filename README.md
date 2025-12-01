@@ -1,1 +1,1 @@
-ECHO is on.
+This repository contains interesting problems in DSA
