@@ -1,1 +1,1 @@
-This repo contains assignments for Data Structures and Algorithms cource in Free University of Tbilisi
+This repo contains assignments for Data Structures and Algorithms course in Free University of Tbilisi
