@@ -1,3 +1,6 @@
+https://szkopul.edu.pl/problemset/problem/n986eRgmdL0DsqT2Hn5aFDRs/site/?key=statement
+
+
 # 🎄 WYB - Selective Bajtazar
 
 > **Polish Olympiad in Informatics (OI)** - Stage III, Day 1  
